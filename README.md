@@ -1,1 +1,1 @@
-# Codewars challenges in C/C++
+# Codewars katas in C/C++
